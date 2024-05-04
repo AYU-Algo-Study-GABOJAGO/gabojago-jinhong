@@ -1,4 +1,4 @@
-package week04.BFS;
+package week04.bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Q16953_Jinhong_Jang {
+public class Q9372_Jinhong_Jang {
     /**
      * 메모리: 91252 KB  (/ 256000 KB)
      * 시간:  472 ms    (/ 1000 ms)
