@@ -1,4 +1,4 @@
-package week06;
+package week06_greedy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
